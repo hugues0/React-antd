@@ -1,9 +1,10 @@
 import './App.css';
+import Sider from './components/Sidemenu.js'
 
 function App() {
   return (
     <>
-    <h3>Welcome to react</h3>
+    <Sider />
     </>
   );
 }
